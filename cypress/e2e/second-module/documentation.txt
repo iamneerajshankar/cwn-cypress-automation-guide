@@ -1,0 +1,20 @@
+What is Iframe ?
+-----------------------------------------------------------------------------------------------------------------------
+An iframe, short for "inline frame," is an HTML element used to embed another HTML document within the current document
+
+It allows you to include external content, such as web pages, videos, or other documents, within the context of your 
+own web page. Iframes are often used to display content from different sources while maintaining the separation of 
+the two documents.
+
+Key points about iframes:
+
+1. Embedding External Content: The primary purpose of an iframe is to embed external content into a web page. This 
+   external content can come from the same domain or from a different domain (cross-origin iframes). This makes iframes 
+   useful for displaying content from third-party sources, like embedded YouTube videos or social media widgets.
+
+2. Isolation: An iframe provides isolation between the content inside the iframe and the surrounding web page. CSS styles 
+   and JavaScript code in the parent document do not affect the content inside the iframe, and vice versa. This isolation is 
+   a security feature that prevents malicious code from affecting the parent page.
+
+3. Size and Dimensions: You can specify the size and dimensions of an iframe, allowing you to control how much space the 
+   embedded content occupies on your web page. 

@@ -24,14 +24,21 @@
 // -- This will overwrite an existing command --
 // Cypress.Commands.overwrite('visit', (originalFn, url, options) => { ... })
 
+
 // Enable auto Suggestions
 /// <reference types="Cypress"/>
-// / <reference types="cypress-xpath" />
 
 
+require('cypress-xpath');
 // Reusable component to handle the iframe
 Cypress.Commands.add('getIframe', (iframe)=>{
     return cy.get(iframe).its('0.contentDocument.body')
     .should('be.visible').then(cy.wrap)
 
+})
+
+Cypress.on('uncaught:exception', (err, runnable)=>{
+
+    console.error(`Uncaught Exception --> ${err}`);
+    return false; // Return false to prevent the default behavior of Cypress
 })

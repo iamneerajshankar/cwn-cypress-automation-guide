@@ -1,0 +1,36 @@
+Week --> Getting started
+-----------------------------------------------------------------------------------------------------------------------
+
+7th Nov
+-----------------------------------------------------------------------------------------------------------------------
+1. Hacker Rank --> 1 problem (max 1hour)
+2. Python --> Starting with decorator (max 1hour)
+3. Cypress --> Hands on request (Office Hour)
+4. Django --> Get started with User Management
+5. DSA --> Learn dequeue implementation (max 1 hour)
+
+
+8th November (Wednesday)
+-----------------------------------------------------------------------------------------------------------------------
+1. Hacker Rank --> 1 problem (max 1 hour)
+2. Python --> Class based decorators (max 1hour)
+3. Cypress --> Hands on request (Office Hour)
+4. Django --> Get started with User Management
+5. DSA --> Learn remaining method implementation from Queue (max 1 hour)
+
+9th November (Thursday)
+-----------------------------------------------------------------------------------------------------------------------
+1. Hacker Rank --> 1 problem (max 1 hour)
+2. Python --> Creating custom decorators (max 1hour)
+3. Cypress or selenium office hour
+4. Django --> Implementing own User Management System
+5. DSA --> Practice Interview Question -- Queue
+
+10th November (Friday)
+-----------------------------------------------------------------------------------------------------------------------
+1. Hacker Rank --> 1 problem (max 1 hour)
+2. Python --> Review Decorators
+3. NA
+4. Django --> Implementing own User Management System
+5. DSA --> Practice Interview Question -- Queue
+
